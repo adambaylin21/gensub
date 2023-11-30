@@ -1,0 +1,7 @@
+Quy trình:
+1. Dùng Cap Cut xuất Mp3
+2. Lên Veed.io để Sub âm thanh
+3. Coppy Mã vào Gen Sub
+4. Dùng Chat GPT để dịch Sub
+
+python main.py -l vietnamese -v result.srt

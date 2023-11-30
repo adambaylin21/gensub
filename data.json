@@ -1,0 +1,1431 @@
+{
+    "data": {
+        "id": "5030485f-180b-4463-a42d-5243bac890c4",
+        "workspaceId": "d85e1150-c404-4c19-aa73-1052a1ead591",
+        "projectId": "bcc0ff35-ba86-45cd-800d-4f8e767fe347",
+        "assetId": "630c1fbc-9ebb-460b-8aae-46ef7fb4fac1",
+        "language": "en-US",
+        "status": "active",
+        "source": "subtitles",
+        "subtitles": {
+            "01fd2d19-a75f-47ab-bbcc-2f919a61da8f": {
+                "words": [
+                    {
+                        "value": "Okay,",
+                        "from": 0.57,
+                        "to": 0.734,
+                        "confidence": 0.96805,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "guys,",
+                        "from": 0.772,
+                        "to": 0.926,
+                        "confidence": 0.99972,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "so",
+                        "from": 0.948,
+                        "to": 1.134,
+                        "confidence": 0.99963,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "in",
+                        "from": 1.172,
+                        "to": 1.326,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "this",
+                        "from": 1.348,
+                        "to": 1.486,
+                        "confidence": 0.99996,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "video,",
+                        "from": 1.508,
+                        "to": 1.694,
+                        "confidence": 0.99533,
+                        "emoji": "📼",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "I'm",
+                        "from": 1.732,
+                        "to": 1.898,
+                        "confidence": 0.83104,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 0.57,
+                "to": 1.914
+            },
+            "0bf07e9e-b42a-4e55-ab4e-c5d1fa3e75e6": {
+                "words": [
+                    {
+                        "value": "And",
+                        "from": 7.898,
+                        "to": 8.222,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "as",
+                        "from": 8.276,
+                        "to": 8.446,
+                        "confidence": 0.99995,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "you",
+                        "from": 8.468,
+                        "to": 8.654,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "probably",
+                        "from": 8.692,
+                        "to": 9.23,
+                        "confidence": 0.99984,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "guessed",
+                        "from": 9.38,
+                        "to": 9.786,
+                        "confidence": 0.9999,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "it",
+                        "from": 9.818,
+                        "to": 9.966,
+                        "confidence": 0.99966,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 7.898,
+                "to": 9.988
+            },
+            "1d568fb4-d68d-4fea-92e3-ecd950e580be": {
+                "words": [
+                    {
+                        "value": "months,",
+                        "from": 59.108,
+                        "to": 59.438,
+                        "confidence": 0.99949,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "they're",
+                        "from": 59.524,
+                        "to": 59.818,
+                        "confidence": 0.99811,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "going",
+                        "from": 59.834,
+                        "to": 59.918,
+                        "confidence": 0.98195,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "to",
+                        "from": 59.924,
+                        "to": 60.19,
+                        "confidence": 0.62,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "send",
+                        "from": 60.26,
+                        "to": 60.494,
+                        "confidence": 0.99972,
+                        "emoji": "📩",
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "you",
+                        "from": 60.532,
+                        "to": 60.686,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "an",
+                        "from": 60.708,
+                        "to": 60.846,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "extra",
+                        "from": 60.868,
+                        "to": 61.15,
+                        "confidence": 0.99901,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "$1,000.",
+                        "from": 61.22,
+                        "to": 62.382,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 59.108,
+                "to": 62.516
+            },
+            "1e897f25-9d9e-4671-9250-ee5b3a0f5a8d": {
+                "words": [
+                    {
+                        "value": "are",
+                        "from": 41.954,
+                        "to": 42.134,
+                        "confidence": 0.99961,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "doing",
+                        "from": 42.172,
+                        "to": 42.374,
+                        "confidence": 0.99997,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "good,",
+                        "from": 42.412,
+                        "to": 42.614,
+                        "confidence": 0.99971,
+                        "emoji": "👌",
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "what",
+                        "from": 42.652,
+                        "to": 42.854,
+                        "confidence": 0.99959,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "offers",
+                        "from": 42.892,
+                        "to": 43.138,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "are",
+                        "from": 43.154,
+                        "to": 43.286,
+                        "confidence": 0.63688,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "not",
+                        "from": 43.308,
+                        "to": 43.494,
+                        "confidence": 0.84394,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "doing",
+                        "from": 43.532,
+                        "to": 43.734,
+                        "confidence": 0.99993,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "good.",
+                        "from": 43.772,
+                        "to": 44.358,
+                        "confidence": 0.99759,
+                        "emoji": "👌",
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 41.954,
+                "to": 44.524
+            },
+            "32c20f9c-d4d3-417d-8208-7c1eb15f6e81": {
+                "words": [
+                    {
+                        "value": "They",
+                        "from": 31.602,
+                        "to": 31.894,
+                        "confidence": 0.99959,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "have",
+                        "from": 31.932,
+                        "to": 32.134,
+                        "confidence": 0.99927,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "great",
+                        "from": 32.172,
+                        "to": 32.422,
+                        "confidence": 0.99999,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "support.",
+                        "from": 32.476,
+                        "to": 33.174,
+                        "confidence": 1,
+                        "emoji": "👐",
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 31.602,
+                "to": 33.372
+            },
+            "3725d529-ad08-42fe-9bfc-a8a22c22d905": {
+                "words": [
+                    {
+                        "value": "to",
+                        "from": 28.258,
+                        "to": 28.454,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "pick",
+                        "from": 28.492,
+                        "to": 28.694,
+                        "confidence": 0.99988,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "from,",
+                        "from": 28.732,
+                        "to": 29.32,
+                        "confidence": 0.77086,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "high",
+                        "from": 29.93,
+                        "to": 30.294,
+                        "confidence": 0.99971,
+                        "emoji": "🆙",
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "quality",
+                        "from": 30.332,
+                        "to": 30.678,
+                        "confidence": 0.99997,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "offers.",
+                        "from": 30.764,
+                        "to": 31.474,
+                        "confidence": 0.99,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 28.258,
+                "to": 31.602
+            },
+            "4a76f47c-b729-4cae-8e75-fb1a895b3814": {
+                "words": [
+                    {
+                        "value": "by",
+                        "from": 9.988,
+                        "to": 10.126,
+                        "confidence": 0.99998,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "now,",
+                        "from": 10.148,
+                        "to": 10.382,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "it's",
+                        "from": 10.436,
+                        "to": 10.666,
+                        "confidence": 0.99963,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "obviously",
+                        "from": 10.698,
+                        "to": 11.038,
+                        "confidence": 0.99973,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "Max",
+                        "from": 11.124,
+                        "to": 11.514,
+                        "confidence": 0.95981,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "Bounty.",
+                        "from": 11.562,
+                        "to": 12.25,
+                        "confidence": 0.93084,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 9.988,
+                "to": 12.41
+            },
+            "4e2febba-650d-497d-9a82-cdab1776278e": {
+                "words": [
+                    {
+                        "value": "You",
+                        "from": 33.372,
+                        "to": 33.686,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "get",
+                        "from": 33.708,
+                        "to": 33.846,
+                        "confidence": 0.99982,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "a",
+                        "from": 33.868,
+                        "to": 34.006,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "personal",
+                        "from": 34.028,
+                        "to": 34.31,
+                        "confidence": 0.99999,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "affiliate",
+                        "from": 34.38,
+                        "to": 34.834,
+                        "confidence": 0.94163,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "manager,",
+                        "from": 34.882,
+                        "to": 35.554,
+                        "confidence": 0.9736,
+                        "emoji": "👩‍💼",
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "which",
+                        "from": 35.682,
+                        "to": 35.974,
+                        "confidence": 0.99969,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "you",
+                        "from": 36.012,
+                        "to": 36.118,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "can",
+                        "from": 36.124,
+                        "to": 36.39,
+                        "confidence": 0.83543,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "directly",
+                        "from": 36.46,
+                        "to": 36.994,
+                        "confidence": 0.99989,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 33.372,
+                "to": 37.042
+            },
+            "50a93068-1529-4130-9a49-56298c14ac2f": {
+                "words": [
+                    {
+                        "value": "If",
+                        "from": 56.244,
+                        "to": 56.446,
+                        "confidence": 0.99887,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "you",
+                        "from": 56.468,
+                        "to": 56.606,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "make",
+                        "from": 56.628,
+                        "to": 56.814,
+                        "confidence": 0.99947,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "$1,000",
+                        "from": 56.852,
+                        "to": 57.774,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "every",
+                        "from": 57.892,
+                        "to": 58.174,
+                        "confidence": 0.99961,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "month",
+                        "from": 58.212,
+                        "to": 58.414,
+                        "confidence": 0.99992,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "for",
+                        "from": 58.452,
+                        "to": 58.606,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "the",
+                        "from": 58.628,
+                        "to": 58.718,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "next",
+                        "from": 58.724,
+                        "to": 58.894,
+                        "confidence": 0.99978,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "three",
+                        "from": 58.932,
+                        "to": 59.086,
+                        "confidence": 1,
+                        "emoji": "3️⃣",
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 56.244,
+                "to": 59.108
+            },
+            "50f2ad92-7015-4b60-863f-e6cca14c2531": {
+                "words": [
+                    {
+                        "value": "They",
+                        "from": 19.46,
+                        "to": 19.726,
+                        "confidence": 0.99954,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    },
+                    {
+                        "value": "can",
+                        "from": 19.748,
+                        "to": 19.886,
+                        "confidence": 0.63688,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    },
+                    {
+                        "value": "be",
+                        "from": 19.908,
+                        "to": 20.046,
+                        "confidence": 0.99995,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    },
+                    {
+                        "value": "trusted",
+                        "from": 20.068,
+                        "to": 20.346,
+                        "confidence": 0.88075,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    },
+                    {
+                        "value": "with",
+                        "from": 20.378,
+                        "to": 20.574,
+                        "confidence": 0.61144,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    },
+                    {
+                        "value": "payouts.",
+                        "from": 20.612,
+                        "to": 21.47,
+                        "confidence": 0.84106,
+                        "paragraphId": "e077a6c5-7caa-4adc-84f7-f9dbf7ecaf93"
+                    }
+                ],
+                "from": 19.46,
+                "to": 21.47
+            },
+            "863fa6dc-cb7b-4738-bf97-88fecb4553cc": {
+                "words": [
+                    {
+                        "value": "make",
+                        "from": 50.356,
+                        "to": 50.862,
+                        "confidence": 0.99979,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "$1,000",
+                        "from": 50.996,
+                        "to": 52.27,
+                        "confidence": 0.96,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "for",
+                        "from": 52.42,
+                        "to": 52.734,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "the",
+                        "from": 52.772,
+                        "to": 52.926,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "next",
+                        "from": 52.948,
+                        "to": 53.374,
+                        "confidence": 0.99941,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "three",
+                        "from": 53.492,
+                        "to": 53.822,
+                        "confidence": 1,
+                        "emoji": "3️⃣",
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "months,",
+                        "from": 53.876,
+                        "to": 54.19,
+                        "confidence": 0.99968,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "okay?",
+                        "from": 54.26,
+                        "to": 54.542,
+                        "confidence": 0.79164,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 50.356,
+                "to": 54.596
+            },
+            "88bf0d99-d8a6-458a-824b-6b7e47db900b": {
+                "words": [
+                    {
+                        "value": "And",
+                        "from": 12.41,
+                        "to": 12.686,
+                        "confidence": 0.99,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "why",
+                        "from": 12.708,
+                        "to": 12.894,
+                        "confidence": 0.89328,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "is",
+                        "from": 12.932,
+                        "to": 13.086,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "this,",
+                        "from": 13.108,
+                        "to": 13.294,
+                        "confidence": 0.99883,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "guys?",
+                        "from": 13.332,
+                        "to": 13.534,
+                        "confidence": 0.9977,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 12.41,
+                "to": 13.572
+            },
+            "8cedcebf-c492-4f65-8e4c-2865ede92658": {
+                "words": [
+                    {
+                        "value": "Because",
+                        "from": 13.572,
+                        "to": 13.822,
+                        "confidence": 0.99993,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "this",
+                        "from": 13.876,
+                        "to": 14.046,
+                        "confidence": 0.99998,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "is",
+                        "from": 14.068,
+                        "to": 14.206,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "the",
+                        "from": 14.228,
+                        "to": 14.414,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "king",
+                        "from": 14.452,
+                        "to": 14.714,
+                        "confidence": 0.70891,
+                        "emoji": "🤴",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "of",
+                        "from": 14.762,
+                        "to": 14.974,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "CPA",
+                        "from": 15.012,
+                        "to": 15.642,
+                        "confidence": 0.95863,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "marketing",
+                        "from": 15.706,
+                        "to": 16.314,
+                        "confidence": 0.99803,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "networks.",
+                        "from": 16.362,
+                        "to": 17.258,
+                        "confidence": 0.99379,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 13.572,
+                "to": 17.434
+            },
+            "99ef7dab-b693-4664-a26b-649319ec7798": {
+                "words": [
+                    {
+                        "value": "And",
+                        "from": 62.516,
+                        "to": 62.862,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "this",
+                        "from": 62.916,
+                        "to": 63.134,
+                        "confidence": 0.99916,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "is",
+                        "from": 63.172,
+                        "to": 63.422,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "why",
+                        "from": 63.476,
+                        "to": 63.934,
+                        "confidence": 0.99932,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "I",
+                        "from": 64.052,
+                        "to": 64.286,
+                        "confidence": 0.99,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "love",
+                        "from": 64.308,
+                        "to": 64.542,
+                        "confidence": 0.99988,
+                        "emoji": "😍",
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "Max",
+                        "from": 64.596,
+                        "to": 64.874,
+                        "confidence": 0.98981,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "bounty.",
+                        "from": 64.922,
+                        "to": 65.322,
+                        "confidence": 0.99016,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 62.516,
+                "to": 65.386
+            },
+            "ad797560-30ba-45b0-a0cf-0fc5d20d159e": {
+                "words": [
+                    {
+                        "value": "And",
+                        "from": 47.388,
+                        "to": 47.686,
+                        "confidence": 0.99,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "the",
+                        "from": 47.708,
+                        "to": 47.894,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "best",
+                        "from": 47.932,
+                        "to": 48.134,
+                        "confidence": 0.99996,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "part",
+                        "from": 48.172,
+                        "to": 48.326,
+                        "confidence": 0.99994,
+                        "emoji": "〽️",
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "about",
+                        "from": 48.348,
+                        "to": 48.534,
+                        "confidence": 0.99995,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "Max",
+                        "from": 48.572,
+                        "to": 48.786,
+                        "confidence": 0.95338,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "Bounty",
+                        "from": 48.818,
+                        "to": 49.154,
+                        "confidence": 0.83492,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "is",
+                        "from": 49.202,
+                        "to": 49.774,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "you",
+                        "from": 49.932,
+                        "to": 50.302,
+                        "confidence": 1,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 47.388,
+                "to": 50.356
+            },
+            "be91fab0-2b01-4890-a719-8b06e09dd4ed": {
+                "words": [
+                    {
+                        "value": "speak",
+                        "from": 37.042,
+                        "to": 37.35,
+                        "confidence": 0.99996,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "to,",
+                        "from": 37.42,
+                        "to": 37.846,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "which",
+                        "from": 37.948,
+                        "to": 38.214,
+                        "confidence": 0.99957,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "you",
+                        "from": 38.252,
+                        "to": 38.358,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "can",
+                        "from": 38.364,
+                        "to": 38.486,
+                        "confidence": 0.99996,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "directly",
+                        "from": 38.508,
+                        "to": 39.09,
+                        "confidence": 0.9869,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "ask",
+                        "from": 39.17,
+                        "to": 39.702,
+                        "confidence": 0.99968,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "for",
+                        "from": 39.836,
+                        "to": 40.52,
+                        "confidence": 0.87,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "what",
+                        "from": 41.13,
+                        "to": 41.542,
+                        "confidence": 0.9998,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "offers",
+                        "from": 41.596,
+                        "to": 41.938,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 37.042,
+                "to": 41.954
+            },
+            "c5b87290-d9b3-4070-93e2-3757ed6ddd6c": {
+                "words": [
+                    {
+                        "value": "Consistently,",
+                        "from": 54.596,
+                        "to": 55.354,
+                        "confidence": 0.99869,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "every",
+                        "from": 55.482,
+                        "to": 55.774,
+                        "confidence": 0.99957,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    },
+                    {
+                        "value": "month.",
+                        "from": 55.812,
+                        "to": 56.158,
+                        "confidence": 0.99993,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 54.596,
+                "to": 56.244
+            },
+            "cb5aa6c6-597d-473a-8949-754548cdb444": {
+                "words": [
+                    {
+                        "value": "one",
+                        "from": 3.668,
+                        "to": 4.03,
+                        "confidence": 1,
+                        "emoji": "1️⃣",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "best",
+                        "from": 4.1,
+                        "to": 4.766,
+                        "confidence": 0.99996,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "CPA",
+                        "from": 4.948,
+                        "to": 5.626,
+                        "confidence": 0.50669,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "network,",
+                        "from": 5.658,
+                        "to": 6.09,
+                        "confidence": 0.88719,
+                        "emoji": "📶",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "my",
+                        "from": 6.17,
+                        "to": 6.558,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "absolute",
+                        "from": 6.644,
+                        "to": 7.086,
+                        "confidence": 0.99998,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "favorite.",
+                        "from": 7.188,
+                        "to": 7.786,
+                        "confidence": 0.94671,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 3.668,
+                "to": 7.898
+            },
+            "d0c4c0d1-de98-4aef-a5e8-abe9f3104ff8": {
+                "words": [
+                    {
+                        "value": "Okay,",
+                        "from": 65.386,
+                        "to": 65.614,
+                        "confidence": 0.99672,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "guys,",
+                        "from": 65.652,
+                        "to": 65.854,
+                        "confidence": 0.99979,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "I'll",
+                        "from": 65.892,
+                        "to": 66.058,
+                        "confidence": 0.99811,
+                        "emoji": "🤒",
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "see",
+                        "from": 66.074,
+                        "to": 66.206,
+                        "confidence": 0.77728,
+                        "emoji": "🙈",
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "you",
+                        "from": 66.228,
+                        "to": 66.414,
+                        "confidence": 0.98,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "in",
+                        "from": 66.452,
+                        "to": 66.558,
+                        "confidence": 1,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "the",
+                        "from": 66.564,
+                        "to": 66.734,
+                        "confidence": 0.59,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "next",
+                        "from": 66.772,
+                        "to": 67.022,
+                        "confidence": 0.99979,
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    },
+                    {
+                        "value": "video.",
+                        "from": 67.076,
+                        "to": 67.18,
+                        "confidence": 0.99824,
+                        "emoji": "📼",
+                        "paragraphId": "4059cc1f-a9a7-47f3-9ed2-7a5a8f8aeb4f"
+                    }
+                ],
+                "from": 65.386,
+                "to": 67.18
+            },
+            "d273253f-f559-46ea-a91d-0e63ebb758e4": {
+                "words": [
+                    {
+                        "value": "He",
+                        "from": 44.524,
+                        "to": 44.806,
+                        "confidence": 0.99966,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "can",
+                        "from": 44.828,
+                        "to": 45.014,
+                        "confidence": 0.99998,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "literally",
+                        "from": 45.052,
+                        "to": 45.394,
+                        "confidence": 0.99997,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "give",
+                        "from": 45.442,
+                        "to": 45.606,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "you",
+                        "from": 45.628,
+                        "to": 45.814,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "advice,",
+                        "from": 45.852,
+                        "to": 46.274,
+                        "confidence": 0.99974,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "guys.",
+                        "from": 46.322,
+                        "to": 46.534,
+                        "confidence": 0.99867,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "Okay?",
+                        "from": 46.572,
+                        "to": 47.206,
+                        "confidence": 0.89127,
+                        "paragraphId": "e572a9ee-14b4-4482-82af-8664e564fc7a"
+                    }
+                ],
+                "from": 44.524,
+                "to": 47.388
+            },
+            "def6f5e1-efc5-449d-924a-d52832ab3d0b": {
+                "words": [
+                    {
+                        "value": "There",
+                        "from": 26.25,
+                        "to": 26.614,
+                        "confidence": 0.99917,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "are",
+                        "from": 26.652,
+                        "to": 26.854,
+                        "confidence": 0.97365,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "hundreds",
+                        "from": 26.892,
+                        "to": 27.346,
+                        "confidence": 0.56547,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "of",
+                        "from": 27.378,
+                        "to": 27.574,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "great",
+                        "from": 27.612,
+                        "to": 27.814,
+                        "confidence": 0.99997,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "offers",
+                        "from": 27.852,
+                        "to": 28.226,
+                        "confidence": 0.83,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 26.25,
+                "to": 28.258
+            },
+            "f279fdf3-99ed-431c-a46f-40361846374f": {
+                "words": [
+                    {
+                        "value": "They",
+                        "from": 23.57,
+                        "to": 23.886,
+                        "confidence": 0.97895,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "have",
+                        "from": 23.908,
+                        "to": 24.094,
+                        "confidence": 0.9963,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "thousands",
+                        "from": 24.132,
+                        "to": 24.426,
+                        "confidence": 0.94403,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "of",
+                        "from": 24.458,
+                        "to": 24.606,
+                        "confidence": 1,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "monthly",
+                        "from": 24.628,
+                        "to": 25.026,
+                        "confidence": 0.99923,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    },
+                    {
+                        "value": "users.",
+                        "from": 25.098,
+                        "to": 25.91,
+                        "confidence": 0.99085,
+                        "paragraphId": "f9e2a4f9-a05b-43ea-b013-cfdc5de218bc"
+                    }
+                ],
+                "from": 23.57,
+                "to": 26.25
+            },
+            "feb8c769-5fef-4ae3-9e01-697efebe379a": {
+                "words": [
+                    {
+                        "value": "They",
+                        "from": 17.434,
+                        "to": 17.726,
+                        "confidence": 0.99458,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "are",
+                        "from": 17.748,
+                        "to": 17.934,
+                        "confidence": 0.97612,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "established",
+                        "from": 17.972,
+                        "to": 18.506,
+                        "confidence": 0.99776,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "in",
+                        "from": 18.538,
+                        "to": 18.638,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "the",
+                        "from": 18.644,
+                        "to": 18.766,
+                        "confidence": 0.98,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "community.",
+                        "from": 18.788,
+                        "to": 19.31,
+                        "confidence": 0.99982,
+                        "emoji": "👥",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 17.434,
+                "to": 19.46
+            },
+            "ffe4497f-1186-473d-878d-0455d5d420f8": {
+                "words": [
+                    {
+                        "value": "going",
+                        "from": 1.914,
+                        "to": 1.998,
+                        "confidence": 0.69217,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "to",
+                        "from": 2.004,
+                        "to": 2.078,
+                        "confidence": 0.98,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "be",
+                        "from": 2.084,
+                        "to": 2.206,
+                        "confidence": 0.99959,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "talking",
+                        "from": 2.228,
+                        "to": 2.462,
+                        "confidence": 0.99997,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "about",
+                        "from": 2.516,
+                        "to": 2.782,
+                        "confidence": 0.99999,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "my",
+                        "from": 2.836,
+                        "to": 3.102,
+                        "confidence": 1,
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    },
+                    {
+                        "value": "number",
+                        "from": 3.156,
+                        "to": 3.566,
+                        "confidence": 0.99986,
+                        "emoji": "1️⃣",
+                        "paragraphId": "389206b2-0e6d-44bd-b48b-a96499e40d8c"
+                    }
+                ],
+                "from": 1.914,
+                "to": 3.668
+            }
+        },
+        "delay": null,
+        "translationProvider": null,
+        "transcriptionProvider": "assemblyAi",
+        "styleId": "bbf8d6fb-6e95-42c0-b976-da944e904d5e",
+        "style": {
+            "font": "Roboto",
+            "size": 0.0356071875,
+            "display": "block",
+            "color": "#ffffff",
+            "bg": "#000000",
+            "emphasis": "normal",
+            "align": "center",
+            "textWrap": true,
+            "wrapWidth": 0.8,
+            "lineHeight": 1,
+            "letterSpacing": 0,
+            "zIndex": 1000,
+            "posX": 0.5,
+            "posY": 0.85,
+            "rotation": null,
+            "rotationRandomEnabled": false,
+            "animation": "none",
+            "animationColor": "#000000",
+            "emojiEnabled": false,
+            "emojiSize": "md",
+            "emojiPosition": "top",
+            "shadow": null,
+            "outline": null
+        },
+        "parentId": null,
+        "errorReason": null,
+        "initialLanguageDetection": false,
+        "initialAutoHighlight": false,
+        "includeFillerWords": null
+    },
+    "links": {
+        "self": "https://www.veed.io/v1/subtitles/5030485f-180b-4463-a42d-5243bac890c4"
+    }
+}
