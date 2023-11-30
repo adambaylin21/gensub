@@ -6,7 +6,7 @@ import openai
 import json
 import os
 
-openai.api_key = "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"
+openai.api_key = ""
 
 if not openai.api_key:
     exit("Error: OPENAI_API_KEY is not defined. Please set the environment variable and try again.")
